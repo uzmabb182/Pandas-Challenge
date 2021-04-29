@@ -38,7 +38,7 @@ As a job lead analyst for a independent gaming company, I am analyzing the data 
 
 - The age bin (20-24) falls in the highest total count of 258, with the highest percentage of players of 44.79%
 
-_ In contrast, the age bin (40+) has the least total count of 12, with the least percentage of players of 2.08%
+- In contrast, the age bin (40+) has the least total count of 12, with the least percentage of players of 2.08%
 
 ### Purchasing Analysis (Age):
 ---
